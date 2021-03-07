@@ -1,0 +1,27 @@
+{
+  "name": "studion",
+  "version": "0.0.1",
+  "description": "Home page for Studion Events.",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeaneOliveira/studion.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Geane Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeaneOliveira/studion/issues"
+  },
+  "homepage": "https://github.com/GeaneOliveira/studion#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
