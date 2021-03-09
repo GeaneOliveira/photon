@@ -4,6 +4,7 @@
   "description": "Home page for Studion Events.",
   "main": "src/index.html",
   "scripts": {
+    "start":"npx live-server src/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
