@@ -1,7 +1,7 @@
 {
-  "name": "studion",
+  "name": "photon",
   "version": "0.0.1",
-  "description": "Home page for Studion Events.",
+  "description": "Home page for Photon Photography.",
   "main": "src/index.html",
   "scripts": {
     "start":"npx live-server src/",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GeaneOliveira/studion.git"
+    "url": "git+https://github.com/GeaneOliveira/photon.git"
   },
   "keywords": [
     "HTML",
@@ -19,9 +19,9 @@
   "author": "Geane Oliveira",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GeaneOliveira/studion/issues"
+    "url": "https://github.com/GeaneOliveira/photon/issues"
   },
-  "homepage": "https://github.com/GeaneOliveira/studion#readme",
+  "homepage": "https://github.com/GeaneOliveira/photon#readme",
   "devDependencies": {
     "live-server": "^1.2.1"
   }
