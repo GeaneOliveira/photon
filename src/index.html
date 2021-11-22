@@ -9,26 +9,28 @@
   </head>
   <body>
     <nav class="navbar">
-      <h1 class="logo-photon">
-        Phot<span class="copy--primary">on </span><span class="logo-photon__subtitle">Fotografia</span>
-      </h1>
-      <ul class="navbar__links">
-        <li>
-          <a href="#empresa"> Empresa </a>
-        </li>
-        <li>
-          <a href="#agenda"> Eventos </a>
-        </li>
-        <li>
-          <a href="#galeria"> Galeria </a>
-        </li>
-        <li>
-          <a href="#depoimentos"> Depoimentos </a>
-        </li>
-        <li>
-          <a href="#contatos"> Contatos </a>
-        </li>
-      </ul>
+      <div class="container navbar__container">
+        <h1 class="logo-photon">
+          Phot<span class="copy--primary">on </span><span class="logo-photon__subtitle">Fotografia</span>
+        </h1>
+        <ul class="navbar__links">
+          <li>
+            <a href="#empresa"> Empresa </a>
+          </li>
+          <li>
+            <a href="#agenda"> Agenda </a>
+          </li>
+          <li>
+            <a href="#galeria"> Galeria </a>
+          </li>
+          <li>
+            <a href="#depoimentos"> Depoimentos </a>
+          </li>
+          <li>
+            <a href="#contatos"> Contatos </a>
+          </li>
+        </ul>
+      </div>
     </nav>
 
     <header>
@@ -36,7 +38,7 @@
         <div class="slide">
           <img class="slide__background-image" src="./images/banner.jpg" alt="Fhoton banner">
           <div class="slide__copy">
-            <h6><span class="copy--primary">Próximo evento</span> - Dia 25 de Setembro às 19h</h6>
+            <h6><span class="copy--primary">Agenda aberta</span> - Dia 25 de Setembro</h6>
             <h2><span class="copy--primary">Creative</span> Minds</h2>
             <button class="btn btn--slide" >Saiba mais</button>
           </div>
@@ -45,27 +47,39 @@
     </header>
 
     <main>
-      <section>
-        <ul>
+      <section id="counter" >
+        <ul class="container counter__container" >
           <li>
-            <h3>+ de 500</h3>
-            eventos realizados
+            <h3>
+              + de 500 
+              <small>
+                eventos realizados
+              </small> 
+            </h3>
           </li>
           <li>
-            <h3>+ de 1.000.000</h3>
-            de click registrados
+            <h3> 
+               + de 1.000.000 
+               <small>
+                 de click registrados
+               </small>
+            </h3>
           </li>
           <li>
-            <h3>+ de 300</h3>
-            clientes atendidas
+            <h3>
+              + de 300
+              <small>
+                clientes atendidos 
+              </small>
+            </h3>
           </li>
         </ul>
       </section>
 
-      <section>
-        <div>
-          <img src="./images/institutional.jpg" />
-          <h6>Fazemos o seu vento acontecer</h6>
+      <section class=" container institutional" >
+        <img class="institutional__image" src="./images/institutional.jpg" alt="Fhoton institutional" />
+        <div class="institutional__copy" >
+          <h6>Fazemos o seu sonho acontecer</h6>
           <h4>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h4>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis in
@@ -73,23 +87,25 @@
             ad, consequatur quam commodi ex quia quis enim nulla, ipsum
             deserunt.
           </p>
-          <button>Saiba mais</button>
+          <button class="btn btn--institutional" >Saiba mais</button>
         </div>
       </section>
 
-      <section>
-        <div>
-          <h6>
-            Você informa a temática e nós planejamos um evento com tecnologia e
-          </h6>
-          <h2><span>Muito+ </span>Diversão</h2>
-          <button>Fazer cotação</button>
+      <section class=" quote" >
+        <div class="container quote__container">
+          <div class="quote__copy">
+            <h6>
+              Você informa a temática e nós planejamos um ensaio com tecnologia e
+            </h6>
+            <h2><span class="copy--primary">Muito+ </span>Diversão</h2>
+            <button class="btn btn--quote">Fazer cotação</button>
+          </div>
         </div>
       </section>
     </main>
 
     <footer>
-      <h2>Studi<span>on</span><span>Eventos</span></h2>
+      <h2>Phot<span>on</span><span>Fotografia</span></h2>
       <form>
         <label>Receba news e promoções</label>
         <input type="email" placeholder="email" />
@@ -102,8 +118,5 @@
       </ul>
       <hr />
       <p>
-        <small>Studi<span>ON</span> - Todos os direitos reervados.</small>
+        <small>Phot<span>ON</span> - Todos os direitos reervados.</small>
       </p>
-    </footer>
-  </body>
-</html>
