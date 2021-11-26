@@ -1,0 +1,32 @@
+.btn {
+  cursor: pointer;
+  padding: 1rem 2.5rem;
+  border: 0.125rem solid #fff;
+  border-radius: 5rem;
+  color: var(--color-primary);
+  background: unset;
+  font-size: 0.9375rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  transition: 0.3s all ease;
+}
+
+.btn:hover,
+.btn:active,
+.btn:focus,
+.btn--institutional {
+  border-color: var(--color-primary);
+  background-color: var(--color-primary);
+  color: #fff;
+}
+
+.btn--institutional:hover {
+  color: var(--color-copy);
+  background-color: unset;
+}
+
+.btn--quote {
+  color: var(--color-copy);
+  border-color: var(--color-copy);
+  background: unset;
+}

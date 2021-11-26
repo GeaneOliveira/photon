@@ -1,0 +1,102 @@
+.footer {
+  background-color:#000;
+  color: #fff;
+  padding: 0 1rem;
+}
+
+.footer__container {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  align-items: center;
+  padding: 5.25rem 0 3.75rem 0;
+}
+
+.footer .logo-photon {
+  justify-self: start;
+  margin: 0;
+}
+
+.logo-photon__subtitle {
+  display:  block;
+}
+
+.footer__form { 
+  display: grid;
+  place-items: center;
+  grid-template-columns: 10ch auto;
+  gap: 1.25rem;
+}
+
+.footer__form label {
+  font-size: .875rem;
+  font-weight: 300;
+  text-align: left;
+  line-height: 1rem;
+}
+
+.footer__email {
+  display: grid;
+  grid-template-columns: auto 3.375rem;
+  width: 100%;
+}
+
+.footer__form input{
+  background-color: var(--color-primary);
+  border: unset;
+  padding: 1rem;
+  font-size: .875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  
+}
+
+.footer__form input::placeholder {
+  color: #000; 
+}
+
+.footer__form input:focus {
+  outline: unset;
+}
+
+.footer__form button {
+  cursor: pointer;
+  border: unset;
+  height: 100%;
+  transition: .3s all ease;
+}
+
+.footer__form button:hover{
+  border: 3px solid #fff;
+  background-color: var(--color-primary);
+  vertical-align: middle;
+
+}
+
+.footer__social {
+  justify-self: end;
+}
+
+.footer__social a,
+.footer__social a:visited,
+.footer__social a:active {
+  color: #fff;
+  margin-left: 0.2rem ;
+}
+
+.footer__social a .fa-twitter,
+.footer__social a:visited .fa-twitter,
+.footer__social a:active .fa-twitter {
+  color: #000;
+}
+.footer hr {
+  border-color: #fff4;
+  margin: 0;
+}
+
+.footer p {
+  text-align: center;
+  font-size: .875rem;
+  font-weight: 300;
+  margin: 0;
+  margin: 2.5rem 0;
+}
