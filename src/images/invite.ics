@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20211129T130000Z
+DTEND:20211129T150000Z
+DTSTAMP:20211126T182553Z
+ORGANIZER;CN=gabriela.polito@globant.com:mailto:gabriela.polito@globant.com
+UID:1hdeb53adip5nss0keijahntc7@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Gabriela Santos Romualdo;X-NUM-GUESTS=0:mailto:gabriela.santos@globant.
+ com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=roberta.guimaraes@globant.com;X-NUM-GUESTS=0:mailto:roberta.guimara
+ es@globant.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=maria.nascimento@globant.com;X-NUM-GUESTS=0:mailto:maria.nascimento
+ @globant.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=gabriela.polito@globant.com;X-NUM-GUESTS=0:mailto:gabriela.polito@globa
+ nt.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=geaneukoliveira@gmail.com;X-NUM-GUESTS=0:mailto:geaneukoliveira@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nathiicruz1996@gmail.com;X-NUM-GUESTS=0:mailto:nathiicruz1996@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=samelacarol07@gmail.com;X-NUM-GUESTS=0:mailto:samelacarol07@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=luizpanosso@gmail.com;X-NUM-GUESTS=0:mailto:luizpanosso@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=faos.anderson@gmail.com;X-NUM-GUESTS=0:mailto:faos.anderson@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=juniorquintilhano@hotmail.com;X-NUM-GUESTS=0:mailto:juniorquintilha
+ no@hotmail.com
+X-MICROSOFT-CDO-OWNERAPPTID:713383147
+CREATED:20211126T182230Z
+DESCRIPTION:Olá\, tudo bem? \n\nConforme falamos\, teremos um bate papo nes
+ sa segunda-feira às 10h! \n\nA ideia é que você possa conhecer mais sobre a
+  Globant\, tirar suas dúvidas\, conheçer as oportunidades de desenvolviment
+ o que nós podemos proporcionar\, e claro se divertir um pouquinho! :D \n\nP
+ ara participar do nosso papo basta clicar no link do Google Meet! \n\nPeço 
+ por gentileza\, que confirme sua presença através desse invite e caso você 
+ tenha algum imprevisto e não consiga participar\, que me envie uma mensagem
+  informando no número 011 94847-0513\, combinado? \n\nAbaixo você encontra 
+ alguns links que podem te ajudar a conhecer mais sobre a Globant! \n\nConhe
+ ça a Globant: https://www.globant.com/pt-br\nConheça nosso Studio de Salesf
+ orce: https://www.globant.com/pt-br/studio/salesforce\n\nAté logo! :)\n\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem uma video
+ chamada.\nParticipar: https://meet.google.com/trk-nhnr-hxd\n(BR) +55 51 456
+ 0-7725 PIN: 654164972#\nVer mais números de telefone: https://tel.meet/trk-
+ nhnr-hxd?pin=9210155953981&hs=7\n\nVisualize o seu evento em https://calend
+ ar.google.com/calendar/event?action=VIEW&eid=MWhkZWI1M2FkaXA1bnNzMGtlaWphaG
+ 50YzcgZ2VhbmV1a29saXZlaXJhQG0&tok=MjcjZ2FicmllbGEucG9saXRvQGdsb2JhbnQuY29tO
+ WI1ZjZiMWI3NmMzNzg0ZmFiZDczMTZjMDE4NDVkNWM1YWM0ZjJkMA&ctz=America%2FSao_Pau
+ lo&hl=pt_BR&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20211126T182551Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SAVE THE DATE - Dinâmica Globant
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
